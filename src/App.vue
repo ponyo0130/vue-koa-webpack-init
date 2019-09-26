@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <router-view/> -->
-    hello vue
+    hello vue2
   </div>
 </template>
 
